@@ -17,13 +17,8 @@
 
 <h3 align="left">How to reach me:</h3>
 <p align="left">
-<a href="https://www.wppredirect.tk/go/?p=201149137351&m=fromGithub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="elmorshdi" height="30" width="40" /></a>
-<a href="mailto:elmorshdi53@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/53372814/166076746-9393feeb-077e-425f-b684-1399beed8615.svg" alt="mostafa-elmorshdi-13b6811a4" height="30" width="40" /></a>
-<a href="tel:+201149137351" target="blank"><img align="center" src="https://user-images.githubusercontent.com/53372814/166082667-c633b7f2-2d05-4621-b91f-1924113031ec.svg" alt="Call" height="30" width="40" /> </a>
-<button style="font-size:24px"><a href="tel:+4733378901"><i class="fa fa-phone"></i></a></button>  
-</p>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<a href="Https://wa.me/+201149137351" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="elmorshdi" height="30" width="40" /></a>
+<a href="mailto:elmorshdi53@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/53372814/166076746-9393feeb-077e-425f-b684-1399beed8615.svg" alt="mostafa-elmorshdi-13b6811a4" height="30" width="40" /></a> 
 <a href="https://twitter.com/mostafa_morshdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elmorshdi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mostafa-elmorshdi-13b6811a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mostafa-elmorshdi-13b6811a4" height="30" width="40" /></a>
 
