@@ -55,10 +55,11 @@ class MostafaElmorshdi : SeniorAndroidDeveloper {
 <table>
   <tr>
     <td valign="top">
-      <h3>📞 H&I — Real-Time Communication App ⭐</h3>
-      <p><i>Feature-rich platform with one-to-one <b>video &amp; audio calling</b>, <b>real-time chat</b>, and <b>Picture-in-Picture (PiP)</b> calls that keep running while users multitask. Built fully in Jetpack Compose with a Socket.IO-powered real-time layer.</p>
+      <h3>🏗️ H&I — Construction Services Marketplace ⭐</h3>
+      <p><i>A two-sided platform connecting clients with professionals in the construction &amp; contracting sector</i> — architecture, legal, and skilled-trade services. Clients browse <b>provider profiles</b>, read <b>reviews</b>, and connect directly via <b>real-time chat</b>, <b>voice &amp; video calls</b> with <b>Picture-in-Picture</b>. Specialized sections (Architectural Contractors, Hiring) plus <b>secure contract &amp; document management</b> to close deals smoothly. Shipped as separate <b>User</b> and <b>Provider</b> apps, built fully in Jetpack Compose over a Socket.IO real-time layer.</p>
       <p><b>Kotlin · Jetpack Compose · Socket.IO · ZEGOCLOUD · Twilio · Vonage (OpenTok) · WebRTC · Picture-in-Picture · Coroutines/Flow · Clean Architecture</b></p>
-      <a href="https://play.google.com/store/apps/details?id=com.cs.h_and_i.user"><img src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="play" /></a>
+      <a href="https://play.google.com/store/apps/details?id=com.cs.h_and_i.user"><img src="https://img.shields.io/badge/User%20App-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="user app" /></a>
+      <a href="https://play.google.com/store/apps/details?id=com.cs.h_and_i.provider"><img src="https://img.shields.io/badge/Provider%20App-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="provider app" /></a>
     </td>
   </tr>
 </table>
