@@ -6,7 +6,7 @@
 <!-- ====== TYPING BANNER ====== -->
 <p align="center">
   <a href="https://github.com/elmorshdi">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7F52FF&center=true&vCenter=true&width=650&lines=Senior+Android+Developer+from+Egypt+%F0%9F%87%AA%F0%9F%87%AC;4%2B+years+shipping+production+apps+on+Google+Play;Kotlin+%E2%80%A2+Jetpack+Compose+%E2%80%A2+KMP+%2F+CMP;Clean+Architecture+%E2%80%A2+MVI+%E2%80%A2+Multi-module;Payments+%E2%80%A2+Maps+%E2%80%A2+Firebase+%E2%80%A2+CI%2FCD" alt="typing banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7F52FF&center=true&vCenter=true&width=650&lines=Senior+Android+Developer+from+Egypt+%F0%9F%87%AA%F0%9F%87%AC;4%2B+years+shipping+production+apps+on+Google+Play;Kotlin+%E2%80%A2+Jetpack+Compose+%E2%80%A2+KMP+%2F+CMP;Clean+Architecture+%E2%80%A2+MVI+%E2%80%A2+Multi-module;Real-time+Video%2FAudio+Calls+%E2%80%A2+Socket.IO+%E2%80%A2+PiP;Payments+%E2%80%A2+Maps+%E2%80%A2+Firebase+%E2%80%A2+CI%2FCD" alt="typing banner" />
   </a>
 </p>
 
@@ -32,6 +32,7 @@ class MostafaElmorshdi : SeniorAndroidDeveloper {
 
     val topSkills  = listOf("Kotlin", "Jetpack Compose", "KMP / CMP", "Clean Architecture")
     val toolbelt   = listOf("Coroutines", "Flow", "Ktor", "Retrofit", "Hilt", "Koin")
+    val realtime   = listOf("Socket.IO", "WebRTC", "Video/Audio Calls", "PiP", "Live Chat")
     val payments   = listOf("Stripe", "PayTabs", "HyperPay", "Moyasar")
 
     val ownership  = "Architecture → development → Play Store release"
@@ -50,6 +51,17 @@ class MostafaElmorshdi : SeniorAndroidDeveloper {
 ---
 
 ## 🚀 Featured Apps on Google Play
+
+<table>
+  <tr>
+    <td valign="top">
+      <h3>📞 H&I — Real-Time Communication App ⭐</h3>
+      <p><i>Feature-rich platform with one-to-one <b>video &amp; audio calling</b>, <b>real-time chat</b>, and <b>Picture-in-Picture (PiP)</b> calls that keep running while users multitask. Built fully in Jetpack Compose with a Socket.IO-powered real-time layer.</p>
+      <p><b>Kotlin · Jetpack Compose · Socket.IO · WebRTC (Video/Audio Calling) · Picture-in-Picture · Coroutines/Flow · Clean Architecture</b></p>
+      <a href="https://play.google.com/store/apps/details?id=com.cs.h_and_i.user"><img src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="play" /></a>
+    </td>
+  </tr>
+</table>
 
 <table>
   <tr>
@@ -112,6 +124,13 @@ class MostafaElmorshdi : SeniorAndroidDeveloper {
 ![Koin](https://img.shields.io/badge/Koin-F4901E?style=for-the-badge)
 ![Ktor](https://img.shields.io/badge/Ktor-087CFA?style=for-the-badge&logo=ktor&logoColor=white)
 ![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge)
+
+#### Real-time & Media
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
+![Video/Audio Calling](https://img.shields.io/badge/Video%20%2F%20Audio%20Calling-FF5252?style=for-the-badge)
+![Picture-in-Picture](https://img.shields.io/badge/Picture--in--Picture-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Real-time Chat](https://img.shields.io/badge/Real--time%20Chat-25D366?style=for-the-badge)
 
 #### Data · Backend · Payments
 ![Room](https://img.shields.io/badge/Room-4DB33D?style=for-the-badge)
