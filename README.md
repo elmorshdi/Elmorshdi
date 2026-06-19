@@ -32,7 +32,7 @@ class MostafaElmorshdi : SeniorAndroidDeveloper {
 
     val topSkills  = listOf("Kotlin", "Jetpack Compose", "KMP / CMP", "Clean Architecture")
     val toolbelt   = listOf("Coroutines", "Flow", "Ktor", "Retrofit", "Hilt", "Koin")
-    val realtime   = listOf("Socket.IO", "WebRTC", "Video/Audio Calls", "PiP", "Live Chat")
+    val realtime   = listOf("Socket.IO", "ZEGOCLOUD", "Twilio", "Vonage", "WebRTC", "PiP")
     val payments   = listOf("Stripe", "PayTabs", "HyperPay", "Moyasar")
 
     val ownership  = "Architecture → development → Play Store release"
@@ -57,7 +57,7 @@ class MostafaElmorshdi : SeniorAndroidDeveloper {
     <td valign="top">
       <h3>📞 H&I — Real-Time Communication App ⭐</h3>
       <p><i>Feature-rich platform with one-to-one <b>video &amp; audio calling</b>, <b>real-time chat</b>, and <b>Picture-in-Picture (PiP)</b> calls that keep running while users multitask. Built fully in Jetpack Compose with a Socket.IO-powered real-time layer.</p>
-      <p><b>Kotlin · Jetpack Compose · Socket.IO · WebRTC (Video/Audio Calling) · Picture-in-Picture · Coroutines/Flow · Clean Architecture</b></p>
+      <p><b>Kotlin · Jetpack Compose · Socket.IO · ZEGOCLOUD · Twilio · Vonage (OpenTok) · WebRTC · Picture-in-Picture · Coroutines/Flow · Clean Architecture</b></p>
       <a href="https://play.google.com/store/apps/details?id=com.cs.h_and_i.user"><img src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="play" /></a>
     </td>
   </tr>
@@ -128,7 +128,9 @@ class MostafaElmorshdi : SeniorAndroidDeveloper {
 #### Real-time & Media
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
-![Video/Audio Calling](https://img.shields.io/badge/Video%20%2F%20Audio%20Calling-FF5252?style=for-the-badge)
+![ZEGOCLOUD](https://img.shields.io/badge/ZEGOCLOUD-0055FF?style=for-the-badge)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
+![Vonage](https://img.shields.io/badge/Vonage%20(OpenTok)-000000?style=for-the-badge&logo=vonage&logoColor=white)
 ![Picture-in-Picture](https://img.shields.io/badge/Picture--in--Picture-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Real-time Chat](https://img.shields.io/badge/Real--time%20Chat-25D366?style=for-the-badge)
 
