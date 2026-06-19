@@ -66,6 +66,18 @@ class MostafaElmorshdi : SeniorAndroidDeveloper {
 
 <table>
   <tr>
+    <td valign="top">
+      <h3>🚌 SAST — Smart Student Transportation ⭐</h3>
+      <p><i>A two-app platform that makes school bus trips safe and organized.</i> <b>Captain app</b> — drivers manage daily trips, take attendance via student list or <b>QR scan</b>, follow the route on the map, and review trip history &amp; ratings. <b>Parent app</b> — <b>real-time bus tracking</b> on the map, instant notifications (bus approaching, child boarded, arrived at school, trip ended), <b>subscription &amp; payment management</b>, multi-student accounts, captain ratings, and invite-code account security. Fully <b>Arabic / RTL</b>.</p>
+      <p><b>Kotlin · Jetpack Compose · Google Maps SDK · Real-time GPS Tracking · QR Scanning · FCM Push · Payments/Subscriptions · Arabic RTL · Clean Architecture</b></p>
+      <a href="https://play.google.com/store/apps/details?id=com.aait.sast.student"><img src="https://img.shields.io/badge/Parent%20App-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="parent app" /></a>
+      <a href="https://play.google.com/store/apps/details?id=com.aait.sast.captain"><img src="https://img.shields.io/badge/Captain%20App-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="captain app" /></a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
     <td width="50%" valign="top">
       <h3>🎓 Coursemia</h3>
       <p><i>Coursera-style learning platform for healthcare professionals.</i> Course discovery, in-app enrollment & ticketing, video playback, push notifications, progress tracking.</p>
@@ -110,6 +122,8 @@ class MostafaElmorshdi : SeniorAndroidDeveloper {
 ![Compose Multiplatform](https://img.shields.io/badge/Compose%20Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Material 3](https://img.shields.io/badge/Material%203-757575?style=for-the-badge&logo=materialdesign&logoColor=white)
 ![XML Views](https://img.shields.io/badge/XML%20Views-EF6C00?style=for-the-badge)
+![RTL / Arabic](https://img.shields.io/badge/RTL%20%2F%20Arabic-009688?style=for-the-badge)
+![QR Scanning](https://img.shields.io/badge/QR%20Scanning-000000?style=for-the-badge&logo=qrcode&logoColor=white)
 
 #### Architecture
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-FF6F00?style=for-the-badge)
