@@ -100,7 +100,7 @@ class MostafaElmorshdi : SeniorAndroidDeveloper {
     </td>
     <td width="50%" valign="top">
       <h3>👨‍👩‍👧‍👦 Alkarashi Family App</h3>
-      <p><i>Family communication platform.</i> Digital family tree, real-time chat, news feeds & announcements with offline-first messaging.</p>
+      <p><i>An all-in-one platform that brings a family together.</i> Family news, events & gatherings, honoring academically outstanding members, an interactive <b>family tree</b> mapping branches & sections, plus push notifications so every update reaches all members instantly.</p>
       <p><b>Kotlin · Compose · Hilt · Firebase RTDB + FCM · MVVM</b></p>
       <a href="https://play.google.com/store/apps/details?id=com.aait.alkarashi"><img src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="play" /></a>
     </td>
