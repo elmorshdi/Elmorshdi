@@ -127,7 +127,12 @@ class MostafaElmorshdi : SeniorAndroidDeveloper {
       <a href="https://play.google.com/store/apps/details?id=com.aait.fawry.user"><img src="https://img.shields.io/badge/User%20App-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="user app" /></a>
       <a href="https://play.google.com/store/apps/details?id=com.aait.fawry.delegate"><img src="https://img.shields.io/badge/Delegate%20App-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="delegate app" /></a>
     </td>
-    <td width="50%" valign="top"></td>
+    <td width="50%" valign="top">
+      <h3>🛥️ Book a Boat</h3>
+      <p><i>Marine trip booking marketplace for Jeddah & beyond.</i> Browse providers and book by boat/yacht type, location, duration, group size, and captain — for relaxing cruises, family trips, fishing, or celebrations. Boat owners can list their vessels as an income source.</p>
+      <p><b>Kotlin · Compose · Google Maps SDK · Coroutines/Flow · Hilt · Clean Architecture</b></p>
+      <a href="https://play.google.com/store/apps/details?id=com.aait.book_boat.user"><img src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="play" /></a>
+    </td>
   </tr>
 </table>
 
