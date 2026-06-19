@@ -112,7 +112,12 @@ class MostafaElmorshdi : SeniorAndroidDeveloper {
       <p><b>Kotlin · Compose · Hilt · Firebase · Coroutines/Flow · Clean Architecture</b></p>
       <a href="https://play.google.com/store/apps/details?id=com.aait.everything"><img src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="play" /></a>
     </td>
-    <td width="50%" valign="top"></td>
+    <td width="50%" valign="top">
+      <h3>💍 Al-Shamil for Events</h3>
+      <p><i>Officially-licensed event planning &amp; coordination platform</i> for weddings in Al-Qunfudhah — prevents same-day event clashes, smart planning with automatic date reminders, connects couples with vendors (kosha, buffets, hospitality), plus educational e-courses on family life.</p>
+      <p><b>Kotlin · Compose · Firebase · Notifications · Clean Architecture · RTL</b></p>
+      <a href="https://play.google.com/store/apps/details?id=com.monsabat.alshaamil"><img src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="play" /></a>
+    </td>
   </tr>
 </table>
 
