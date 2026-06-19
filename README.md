@@ -119,6 +119,15 @@ class MostafaElmorshdi : SeniorAndroidDeveloper {
       <a href="https://play.google.com/store/apps/details?id=com.monsabat.alshaamil"><img src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="play" /></a>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛵 Faster — Instant Delivery</h3>
+      <p><i>Same-hour delivery for online shopping.</i> Get orders from partner e-commerce stores delivered instantly, <b>pay on delivery</b> with flexible & secure options, and <b>track the rider live on the map</b> in real time.</p>
+      <p><b>Kotlin · Compose · Google Maps SDK · Real-time Tracking · Hilt · Coroutines/Flow</b></p>
+      <a href="https://play.google.com/store/apps/details?id=com.aait.fawry.user"><img src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="play" /></a>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
 </table>
 
 ---
