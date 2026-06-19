@@ -105,6 +105,15 @@ class MostafaElmorshdi : SeniorAndroidDeveloper {
       <a href="https://play.google.com/store/apps/details?id=com.aait.alkarashi"><img src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="play" /></a>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛒 Everything</h3>
+      <p><i>Marketplace connecting customers with local businesses</i> — productive-family projects, commercial complexes, restaurants & stores. Helps users find the best products and services, and helps providers reach a wider customer base.</p>
+      <p><b>Kotlin · Compose · Hilt · Firebase · Coroutines/Flow · Clean Architecture</b></p>
+      <a href="https://play.google.com/store/apps/details?id=com.aait.everything"><img src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="play" /></a>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
 </table>
 
 ---
