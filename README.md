@@ -78,6 +78,18 @@ class MostafaElmorshdi : SeniorAndroidDeveloper {
 
 <table>
   <tr>
+    <td valign="top">
+      <h3>🏫 Schoolie — White-Label School Platform ⭐</h3>
+      <p><i>A base school-management product I refactored &amp; enhanced at SAGA — then productized into multiple white-label school apps.</i> Connects parents, students & teachers in one community: a shared <b>News Feed</b> for school updates, single-entry data that propagates to everyone concerned, and a rewards/offers system to keep families engaged (even through summer break). Serves national &amp; international schools.</p>
+      <p><b>Kotlin · Java → Kotlin migration · Clean Architecture · Multi-module · White-label / build flavors · News Feed · Firebase</b></p>
+      <a href="https://play.google.com/store/apps/details?id=com.saga.school"><img src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="play" /></a>
+      <a href="https://play.google.com/store/apps/developer?id=S+A+G+A"><img src="https://img.shields.io/badge/More%20by%20SAGA-0A0A0A?style=for-the-badge&logo=googleplay&logoColor=white" alt="developer page" /></a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
     <td width="50%" valign="top">
       <h3>🎓 Coursemia</h3>
       <p><i>Coursera-style learning platform for healthcare professionals.</i> Course discovery, in-app enrollment & ticketing, video playback, push notifications, progress tracking.</p>
@@ -159,6 +171,7 @@ class MostafaElmorshdi : SeniorAndroidDeveloper {
 ![Multi-Module](https://img.shields.io/badge/Multi--Module-455A64?style=for-the-badge)
 ![MVI](https://img.shields.io/badge/MVI-009688?style=for-the-badge)
 ![MVVM](https://img.shields.io/badge/MVVM-00897B?style=for-the-badge)
+![White-label](https://img.shields.io/badge/White--label%20%2F%20Flavors-546E7A?style=for-the-badge)
 ![KMP](https://img.shields.io/badge/Kotlin%20Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 #### Async · DI · Networking
