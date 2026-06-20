@@ -16,7 +16,8 @@
   <a href="mailto:elmorshdi53@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
   <a href="https://wa.me/+201149137351"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" /></a>
   <a href="https://twitter.com/mostafa_morshdi"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" /></a>
-  <a href="https://drive.google.com/file/d/1jicf1Kb0cECFamlB9x72qAjeOgT7hQNc/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="resume" /></a>
+  <a href="https://github.com/elmorshdi/Elmorshdi/raw/main/cv/Mostafa-Elmorshdi-CV.pdf"><img src="https://img.shields.io/badge/Download%20CV-7F52FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="cv pdf" /></a>
+  <a href="https://drive.google.com/file/d/1jicf1Kb0cECFamlB9x72qAjeOgT7hQNc/view?usp=sharing"><img src="https://img.shields.io/badge/Resume%20(Drive)-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="resume" /></a>
   <img src="https://komarev.com/ghpvc/?username=elmorshdi&label=Profile%20views&color=7F52FF&style=for-the-badge" alt="views" />
 </p>
 

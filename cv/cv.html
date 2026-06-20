@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<title>Mostafa Elmorshdi — CV</title>
+<style>
+  :root {
+    --purple: #7F52FF;
+    --green:  #3DDC84;
+    --ink:    #1c2128;
+    --muted:  #5b6573;
+    --line:   #e3e6ea;
+    --chip:   #f3f0fb;
+  }
+  @page { size: A4; margin: 12mm 13mm; }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; }
+  body {
+    font-family: -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    color: var(--ink);
+    font-size: 10.2px;
+    line-height: 1.45;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+  a { color: var(--purple); text-decoration: none; }
+
+  /* Header */
+  header {
+    border-bottom: 3px solid var(--purple);
+    padding-bottom: 9px;
+    margin-bottom: 11px;
+  }
+  h1 {
+    font-size: 25px;
+    margin: 0;
+    letter-spacing: -0.4px;
+  }
+  .title {
+    font-size: 11.5px;
+    font-weight: 600;
+    color: var(--purple);
+    margin: 3px 0 6px;
+  }
+  .contact {
+    font-size: 9.6px;
+    color: var(--muted);
+  }
+  .contact a { color: var(--muted); }
+  .contact b { color: var(--ink); font-weight: 600; }
+
+  /* Section headings */
+  h2 {
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 1.1px;
+    color: var(--ink);
+    margin: 13px 0 6px;
+    padding-bottom: 3px;
+    border-bottom: 1.5px solid var(--line);
+  }
+  h2 .dot { color: var(--green); }
+
+  p { margin: 4px 0; }
+  .summary { color: #2b313a; }
+
+  /* Skills grid */
+  .skills { display: grid; grid-template-columns: 1fr 1fr; gap: 1px 22px; }
+  .skill { margin: 2px 0; }
+  .skill .k {
+    display: inline-block;
+    min-width: 96px;
+    font-weight: 700;
+    color: var(--purple);
+  }
+  .skill .v { color: #2b313a; }
+
+  /* Projects */
+  .proj { margin: 7px 0; page-break-inside: avoid; }
+  .proj .name { font-weight: 700; font-size: 10.6px; }
+  .proj .tag {
+    font-weight: 600;
+    color: var(--green);
+    font-size: 9px;
+  }
+  .proj .desc { color: #2b313a; margin: 1px 0 2px; }
+  .proj .links { font-size: 9px; }
+  .proj .links a { font-weight: 600; }
+
+  /* Experience */
+  .job { margin: 8px 0; page-break-inside: avoid; }
+  .job .row { display: flex; justify-content: space-between; align-items: baseline; }
+  .job .role { font-weight: 700; font-size: 10.6px; }
+  .job .role .co { color: var(--purple); }
+  .job .when { color: var(--muted); font-size: 9.2px; white-space: nowrap; padding-left: 10px; }
+  ul { margin: 3px 0 0; padding-left: 15px; }
+  li { margin: 1.5px 0; }
+
+  .meta { color: #2b313a; }
+  .meta b { color: var(--ink); }
+
+  hr.spacer { border: 0; height: 0; margin: 0; }
+</style>
+</head>
+<body>
+
+  <header>
+    <h1>Mostafa Elmorshdi</h1>
+    <div class="title">Senior Android Developer &nbsp;·&nbsp; Kotlin · Jetpack Compose · KMP / CMP · Clean Architecture</div>
+    <div class="contact">
+      📍 El Mahalla El Kobra, Egypt &nbsp;|&nbsp;
+      ✉️ <b>elmorshdi53@gmail.com</b> &nbsp;|&nbsp;
+      📱 <b>+20 114 913 7351</b> &nbsp;|&nbsp;
+      🔗 <a href="https://linkedin.com/in/mostafa-elmorshdi-13b6811a4">linkedin.com/in/mostafa-elmorshdi</a> &nbsp;|&nbsp;
+      <a href="https://github.com/elmorshdi">github.com/elmorshdi</a>
+    </div>
+  </header>
+
+  <h2>Professional Summary</h2>
+  <p class="summary">Mobile developer with 4+ years building and shipping production-grade Android applications on Google Play. Specialized in <b>Kotlin</b>, <b>Jetpack Compose</b>, and <b>Kotlin / Compose Multiplatform (KMP / CMP)</b>, with deep experience in <b>multi-module Clean Architecture (MVI / MVVM)</b>. Proven across real-time systems (video/audio calling, chat, live GPS tracking), multi-gateway payments, white-label productization, and CI/CD automation. Take full ownership from architecture through Play Store release, and mentor junior engineers.</p>
+
+  <h2>Core Skills</h2>
+  <div class="skills">
+    <div class="skill"><span class="k">Languages</span><span class="v">Kotlin · Java · Swift · Dart</span></div>
+    <div class="skill"><span class="k">UI / UX</span><span class="v">Compose · CMP · Material 3 · XML · RTL/Arabic</span></div>
+    <div class="skill"><span class="k">Architecture</span><span class="v">Clean (multi-module) · MVI · MVVM · White-label</span></div>
+    <div class="skill"><span class="k">Cross-Platform</span><span class="v">KMP · CMP · shared business logic</span></div>
+    <div class="skill"><span class="k">Async &amp; DI</span><span class="v">Coroutines · Flow · Hilt/Dagger · Koin</span></div>
+    <div class="skill"><span class="k">Networking</span><span class="v">Ktor · Retrofit · OkHttp · SSL pinning</span></div>
+    <div class="skill"><span class="k">Real-time</span><span class="v">Socket.IO · WebRTC · ZEGOCLOUD · Twilio · Vonage · PiP</span></div>
+    <div class="skill"><span class="k">Data</span><span class="v">Room · DataStore · Paging 3</span></div>
+    <div class="skill"><span class="k">Backend/Maps</span><span class="v">Firebase (Auth/FCM/Crashlytics) · Google Maps</span></div>
+    <div class="skill"><span class="k">Payments</span><span class="v">Stripe · PayTabs · HyperPay · Moyasar</span></div>
+    <div class="skill"><span class="k">Testing</span><span class="v">JUnit · MockK · Turbine · Espresso</span></div>
+    <div class="skill"><span class="k">Build/DevOps</span><span class="v">Gradle KTS · GitHub Actions · GitLab CI · R8</span></div>
+  </div>
+
+  <h2>Selected Projects</h2>
+
+  <div class="proj">
+    <span class="name">H&amp;I — Construction Services Marketplace</span> <span class="tag">two-app platform (User + Provider)</span>
+    <div class="desc">Connects clients with construction professionals (architecture, legal, trades). Provider profiles, reviews, real-time chat, and <b>voice/video calling</b> (ZEGOCLOUD · Twilio · Vonage) with <b>Picture-in-Picture</b>, plus secure contract &amp; document management. Compose over a Socket.IO real-time layer.</div>
+    <div class="links"><a href="https://play.google.com/store/apps/details?id=com.cs.h_and_i.user">User app ↗</a> &nbsp;·&nbsp; <a href="https://play.google.com/store/apps/details?id=com.cs.h_and_i.provider">Provider app ↗</a></div>
+  </div>
+
+  <div class="proj">
+    <span class="name">SAST — Smart Student Transportation</span> <span class="tag">two-app platform (Parent + Captain)</span>
+    <div class="desc">Captain app: daily trip management, <b>QR-scan attendance</b>, route maps, ratings. Parent app: <b>real-time GPS bus tracking</b>, live notifications, subscription &amp; payment management, multi-student accounts. Fully Arabic / RTL.</div>
+    <div class="links"><a href="https://play.google.com/store/apps/details?id=com.aait.sast.student">Parent app ↗</a> &nbsp;·&nbsp; <a href="https://play.google.com/store/apps/details?id=com.aait.sast.captain">Captain app ↗</a></div>
+  </div>
+
+  <div class="proj">
+    <span class="name">Faster — Instant Delivery</span> <span class="tag">two-app platform (User + Delegate)</span>
+    <div class="desc">Same-hour delivery from partner e-commerce stores. User app: ordering, pay-on-delivery, <b>live rider tracking</b>. Delegate app: courier request management with real-time location updates.</div>
+    <div class="links"><a href="https://play.google.com/store/apps/details?id=com.aait.fawry.user">User app ↗</a> &nbsp;·&nbsp; <a href="https://play.google.com/store/apps/details?id=com.aait.fawry.delegate">Delegate app ↗</a></div>
+  </div>
+
+  <div class="proj">
+    <span class="name">Schoolie — White-Label School Platform</span>
+    <div class="desc">Base school-management product refactored &amp; enhanced (Java → Kotlin) and <b>productized into multiple white-label school apps</b>. Shared News Feed, single-entry data propagation across parents/students/teachers, and a rewards system.</div>
+    <div class="links"><a href="https://play.google.com/store/apps/details?id=com.saga.school">Google Play ↗</a></div>
+  </div>
+
+  <div class="proj">
+    <span class="name">Coursemia — Online Learning Platform</span>
+    <div class="desc">Coursera-style platform for healthcare professionals, owned end-to-end to Google Play launch. Multi-module Clean Architecture (MVI) with Koin, Ktor + SSL pinning, and Firebase (Auth, FCM, Crashlytics, Analytics).</div>
+    <div class="links"><a href="https://play.google.com/store/apps/details?id=com.coursemia">Google Play ↗</a></div>
+  </div>
+
+  <p class="meta" style="margin-top:6px;"><b>Also shipped:</b> Calla Store (e-commerce, Stripe + PayTabs) · seaGo &amp; Book a Boat (marine booking, Maps, Moyasar) · Everything (local-business marketplace) · Al-Shamil (event planning) · Alkarashi (family platform with interactive family tree).</p>
+
+  <h2>Professional Experience</h2>
+
+  <div class="job">
+    <div class="row"><span class="role"><span class="co">Awamer Alshabaka (AAIT)</span> — Android Developer</span><span class="when">Oct 2022 – Present</span></div>
+    <ul>
+      <li>Architected and delivered 5+ production Android apps in Kotlin &amp; Jetpack Compose using multi-module Clean Architecture (MVI/MVVM).</li>
+      <li>Integrated multiple payment gateways (Stripe, PayTabs, HyperPay, Moyasar) for secure in-app checkout.</li>
+      <li>Built real-time GPS tracking and map-based discovery with Google Maps SDK and WorkManager-backed foreground services.</li>
+      <li>Established GitHub Actions / GitLab CI/CD pipelines for automated builds, testing, and Play Store delivery — cut release cycle time ~40%.</li>
+      <li>Mentored 3 junior developers through code reviews, architectural guidelines, and pair programming.</li>
+    </ul>
+  </div>
+
+  <div class="job">
+    <div class="row"><span class="role"><span class="co">Coursemia</span> — Android Developer</span><span class="when">Jan 2025 – Mar 2026</span></div>
+    <ul>
+      <li>Owned end-to-end development from concept to Google Play launch — a Coursera-style platform for healthcare professionals.</li>
+      <li>Designed multi-module Clean Architecture (MVI) with Koin DI; built course discovery, enrollment, video playback, and push notifications.</li>
+      <li>Integrated Firebase (Auth, FCM, Crashlytics, Analytics) and Ktor-based REST APIs with SSL pinning.</li>
+    </ul>
+  </div>
+
+  <div class="job">
+    <div class="row"><span class="role"><span class="co">SAGA</span> — Android Developer</span><span class="when">Oct 2023 – Aug 2025</span></div>
+    <ul>
+      <li>Enhanced a production app and migrated legacy Java modules to modern Kotlin standards.</li>
+      <li>Applied Clean Architecture to decouple business logic from UI — reduced technical debt and cut onboarding time ~30%.</li>
+      <li>Resolved critical production bugs through systematic debugging and root-cause analysis.</li>
+    </ul>
+  </div>
+
+  <div class="job">
+    <div class="row"><span class="role"><span class="co">Apps Square</span> — Android Developer Intern</span><span class="when">Mar 2022 – Aug 2022</span></div>
+    <ul>
+      <li>Implemented UI features and resolved bugs in an Agile/Scrum environment; hands-on Kotlin and Git workflows.</li>
+    </ul>
+  </div>
+
+  <div class="job">
+    <div class="row"><span class="role"><span class="co">MCIT Egypt</span> — Mobile App Developer Trainee</span><span class="when">Nov 2020 – Jan 2021</span></div>
+    <ul>
+      <li>Government-sponsored training in Dart &amp; Flutter; built sample cross-platform apps (UI, state management, navigation).</li>
+    </ul>
+  </div>
+
+  <h2>Education &amp; Certifications</h2>
+  <p class="meta"><b>B.Sc. Statistics &amp; Computer Science</b> — Faculty of Science, Mansoura University · 2017 – 2021</p>
+  <p class="meta"><b>Certifications:</b> Android Developer Nanodegree (Udacity) · Building an Android App with Jetpack &amp; Kotlin for Java Developers (LinkedIn Learning) · ACM-ACPC Problem Solving · Claude Code in Action (Anthropic)</p>
+  <p class="meta"><b>Languages:</b> Arabic (Native) · English (Professional Working Proficiency)</p>
+
+</body>
+</html>
